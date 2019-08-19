@@ -2,9 +2,19 @@
 
 ## python培训课程
 
-录播地址为 https://space.bilibili.com/443119007/video
+#### 代码讲稿：
 
-已完成课程课时 (h) ：
+notebook(.ipynb文件)可以在 https://nbviewer.jupyter.org/ 中输入GitHub文件地址在线打开
+
+
+
+#### 录播地址：
+
+哔哩哔哩 https://space.bilibili.com/443119007/video
+
+
+
+#### 已完成课程课时 (h) ：
 
 | 课程                 | 课时  | 主讲人 |
 | -------------------- | ----- | ------ |
