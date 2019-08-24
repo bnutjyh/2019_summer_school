@@ -4,13 +4,13 @@
 
 #### 代码讲稿：
 
-notebook(.ipynb文件)可以在 https://nbviewer.jupyter.org/ 中输入GitHub文件地址在线打开
+notebook(.ipynb文件)可以在网站 https://nbviewer.jupyter.org/ 中输入GitHub中notebook文件地址在线打开。
 
 
 
 #### 录播地址：
 
-哔哩哔哩 https://space.bilibili.com/443119007/video
+[哔哩哔哩](https://space.bilibili.com/443119007/video)  https://space.bilibili.com/443119007/video
 
 
 
@@ -21,5 +21,5 @@ notebook(.ipynb文件)可以在 https://nbviewer.jupyter.org/ 中输入GitHub文
 | python的安装与使用   | 1课时 | 毛贵明 |
 | 基于python的数据处理 | 3课时 | 蓝昕   |
 | 基于python的图像识别 | 2课时 | 黄锐   |
-| 基于python的数据挖掘 | 2课时 | 高源   |
+| 基于python的数据挖掘 | 3课时 | 高源   |
 
